@@ -11,7 +11,7 @@ def make_pdf(f, N=4000):
 
     #Draw a random domain, but enforce a minimum width to satisfy tests
     MIN_WIDTH = 15.0
-    left  = rng.normal(-10.0, 5.0)
+    left  = rng.normal(-100.0, 150.0)
     width = abs(rng.normal(20.0, 10.0))
     if width < MIN_WIDTH:
         width = MIN_WIDTH
