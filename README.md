@@ -1,6 +1,6 @@
 # CDFs: Using Code to Write CDFs and Inverse CDFs for Random Functions
 
-A Python library for generating random continuous functions and transforming them into probability density functions (PDFs), then computing their cumulative distribution functions (CDFs) and inverse CDFs for perfect uniform distribution mapping.
+This was a learning project to create a Python library for generating random continuous functions and then using them to generate random probability density functions (PDFs), then computing their cumulative distribution functions (CDFs) and inverse CDFs for perfect uniform distribution mapping.
 
 ## Overview
 
