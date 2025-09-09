@@ -8,7 +8,7 @@ This project explores the mathematical relationship between continuous probabili
 
 ## Examples
 
-The project includes four example images demonstrating the random function generation and CDF transformation process:
+Users can generate infinitely many example PDFs and their transformation but here are four that I have pre-generated for an idea of what can be achieved:
 
 ![Random Function 1](images/func_1.png)
 
