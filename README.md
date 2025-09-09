@@ -10,22 +10,20 @@ This project explores the mathematical relationship between continuous probabili
 
 The project includes four example images demonstrating the random function generation and CDF transformation process:
 
-### Random Continuous Functions
-These examples show the diversity of continuous functions that can be generated:
-
 ![Random Function 1](images/func_1.png)
+
 *Example of a generated random continuous function*
 
+![CDF Transform 1](images/func_1_transform.png)
+
+*Three-panel visualization for the first function: uniform samples → transformed samples → verification*
+
 ![Random Function 2](images/func_2.png)
+
 *Another example showing different function characteristics*
 
-### CDF Transformation Process
-These visualizations demonstrate the three-panel CDF transformation showing uniform samples, transformed samples matching the target PDF, and verification of the uniform mapping:
-
-![CDF Transform 1](images/func_1_transform.png)
-*Three-panel visualization: uniform samples → transformed samples → verification*
-
 ![CDF Transform 2](images/func_2_transform.png)
+
 *Another example of the complete CDF transformation process*
 
 These images demonstrate the diversity of functions that can be generated and the perfect uniform mapping achieved through the CDF transformation.
